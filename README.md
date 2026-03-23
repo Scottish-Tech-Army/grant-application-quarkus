@@ -1,4 +1,4 @@
-# wishaw_quarkus
+# grant-application_quarkus
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
